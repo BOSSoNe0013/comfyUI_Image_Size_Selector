@@ -1,3 +1,10 @@
+"""
+@author: Cyril BOSSELUT
+@title: ComfyUI - Image Size Selector
+@nickname: Image Size Selector
+@description: Custom ComfyUI node for quick image size/aspect ratio selection.
+"""
+
 RES_VALUES = {
     "Square (1:1)": {
         "width": 1024, 
